@@ -43,7 +43,10 @@ Reassembly after successful installation:  <br/>
 <img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1143.jpg" height="80%" width="80%" alt="Active Directory"/>
 </br>
 <h2>Trouble-shooting:</h2>
-
+<br />
+Insert the CF adapter with the back (green side) facing you. When inserted the other way, this error message came up on startup:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/18a46751cf624b9fb8169c912856b57e35e754e3/images/IMG_1140.jpg" height="80%" width="80%" alt="Active Directory"/>
+</br>
 </p>
 
 <!--
