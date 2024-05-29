@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The iPod classic is a neat device that is the ideal music playback companion, even today. Here, I will be restoring a thrifted 5th generation 30gb model. The 5th generation models are recommended as they are the easiest to open and have the most third-party accessories available. The unit is functional, but can only hold a charge for 5 minutes. I will be replacing the battery with a fresh unit and upgrading the clunky 30gb HDD with a lighter 64 gb Compact Flash drive. Bid adieu to subscription services, and let's get into it! 
+The iPod classic is a neat device that is the ideal music playback companion, even today. Here, I will be restoring a thrifted 5th generation 30gb model. The 5th generation models are recommended as they are the easiest to open and have the most third-party accessories available. The unit is functional, but can only hold a charge for 5 minutes. I will be replacing the battery and upgrading the clunky 30gb HDD with a lighter 64 gb Compact Flash drive. Ready to bid adieu to subscription services, and let's get into it! 
 </b>
 
 <h2>Materials Used</h2>
